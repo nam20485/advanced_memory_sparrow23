@@ -1,0 +1,11 @@
+[
+  { "name": "status: backlog", "color": "7f8c8d", "description": "Not started yet" },
+  { "name": "status: in progress", "color": "3498db", "description": "Work is ongoing" },
+  { "name": "status: blocked", "color": "e74c3c", "description": "Blocked by an issue or dependency" },
+  { "name": "type: feature", "color": "2ecc71", "description": "New feature" },
+  { "name": "type: bug", "color": "e67e22", "description": "Bug fix" },
+  { "name": "type: docs", "color": "9b59b6", "description": "Documentation" },
+  { "name": "priority: high", "color": "c0392b", "description": "High priority" },
+  { "name": "priority: medium", "color": "d35400", "description": "Medium priority" },
+  { "name": "priority: low", "color": "f1c40f", "description": "Low priority" }
+]

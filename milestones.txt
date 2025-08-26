@@ -1,0 +1,8 @@
+# Milestones for advanced_memory_sparrow23
+
+Phase 1: Repository Initialization
+Phase 2: Application Planning
+Phase 3: Project Structure & Scaffolding
+Phase 4: Core Services Implementation
+Phase 5: Integration & End-to-End Validation
+Phase 6: Documentation & CI/CD Hardening
