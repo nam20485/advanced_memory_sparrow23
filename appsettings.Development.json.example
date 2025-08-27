@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Information"
+    }
+  },
+  "Services": {
+    "Mem0": {
+      "Url": "https://api.mem0.ai",
+      "ApiKey": "__SET_IN_USER_SECRETS__"
+    },
+    "GraphRag": {
+      "Url": "http://localhost:8001"
+    }
+  }
+}
